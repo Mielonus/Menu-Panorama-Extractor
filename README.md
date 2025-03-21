@@ -5,5 +5,5 @@ The program is very basic and may have bugs or not respond at times. However, it
 
 # Known Issues:
 
-- The program freezes after creating the resource pack if more than 1 index files were detected earlier.
+- The program sometimes freezes after creating the resource pack.
 - The program still creates the resource pack even if it doesn't find any panorama files.
